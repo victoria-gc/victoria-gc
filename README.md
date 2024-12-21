@@ -1,7 +1,6 @@
-# Victoria G.
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cc99ff&height=120&section=header" alt="header"/>
 
+# Victoria G.
 ## ⚡About Me
 **`Computer Science & Engineering Student`**
 
@@ -14,7 +13,7 @@ I'm very passionate about my career and I'm always willing to learn something ne
 
 ## 👨‍💻 My Journey
 <details>
-  <summary><strong>Click to unfold my story!</strong></summary>  
+  <summary><strong>Click to unfold!</strong></summary>  
   <br>
   <p> I moved to Madrid in 2021 to start my journey as a programmer. During my time at            university I have learnt plenty of programming languages and worked on a wide range of
   projects. These experiences have helped me build a strong skill set and have given me the       confidence to take on any coding challenge I set my mind to.
