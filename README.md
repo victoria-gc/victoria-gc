@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cc99ff&height=120&section=header" alt="header"/>
-
 # Victoria G.
+<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cc99ff&height=120&section=header" alt="header"/> -->
+
 ## ⚡About Me
 **`Computer Science & Engineering Student`**
 
