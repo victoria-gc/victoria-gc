@@ -4,7 +4,7 @@
 ## ⚡About Me
 **`Computer Science & Engineering Student`**
 
-Hi! I'm Victoria, a third year CSE student at <a href='https://www.uc3m.es/inicio'>Universidad Carlos III de Madrid</a>.
+Hi! I'm Victoria, a fourth year CSE student at <a href='https://www.uc3m.es/inicio'>Universidad Carlos III de Madrid</a>.
 
 I'm very passionate about my career and I'm always willing to learn something new.
 
