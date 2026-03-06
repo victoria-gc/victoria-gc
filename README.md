@@ -27,11 +27,6 @@ I'm very passionate about my career and I'm always willing to learn something ne
   </p>
 </details>
 
-
-## 📊 Stats
-
-![Victoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=victoria-gc&show_icons=true&theme=midnight-purple)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cc99ff&height=120&section=footer" alt="footer"/>
 <!--
 **victoria-gc/victoria-gc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
