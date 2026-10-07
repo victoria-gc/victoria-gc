@@ -2,7 +2,7 @@
 <!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cc99ff&height=120&section=header" alt="header"/> -->
 > [...] but when computers are all around, so that we want to compute while doing something else and have more time to be more fully human, we must radically rethink the goals, context and technology of the computer.
 ## ⚡About Me
-**`Computer Science & Engineering Student`**
+**`Cybersecurity Graduate Student`** **`Computer Scientist & Engineer`**
 
 Hi! I'm Victoria, a Graduate Cybersecurity student at <a href='https://www.upm.es'>Universidad Politécnica de Madrid</a>.
 
